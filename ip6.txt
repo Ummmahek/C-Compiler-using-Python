@@ -1,0 +1,9 @@
+SET p NUMBER (2)
+IN q NUMBER
+IN r NUMBER
+
+POW ans(q,p,r)
+OUT ans
+
+
+

@@ -1,0 +1,10 @@
+SET a NUMBER (0)
+IN b NUMBER
+
+DIV rs(b,a)
+MOD answer(b,a)
+OUT rs
+OUT answer
+
+
+

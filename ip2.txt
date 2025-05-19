@@ -1,0 +1,16 @@
+SET x NUMBER (12)
+IN y NUMBER
+IN z NUMBER
+MUL multiplication (x,y,z)
+ADD addition (x,y,z)
+SUB subtraction (y,x,z)
+DIV division (z,y)
+MOD modulus (z,x)
+POW exponent (y,x,z)
+
+OUT multiplication
+OUT addition
+OUT subtraction
+OUT division
+OUT modulus
+OUT exponent

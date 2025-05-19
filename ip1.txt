@@ -1,0 +1,17 @@
+SUB subtraction (100, 20, 15)
+ADD addition (5, 25, 40)
+MUL multiplication (7, 3, 2)
+POW exponent (2, 3, 4)
+DIV division (10, 2)
+MOD modulus (9, 4)
+FACT factorial 4
+EXPR expression (" (5 * 2) + 6 ")
+
+OUT subtraction
+OUT addition
+OUT multiplication
+OUT exponent
+OUT division
+OUT modulus
+OUT factorial
+OUT expression

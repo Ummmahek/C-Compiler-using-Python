@@ -1,0 +1,11 @@
+ADD variable (a,b,c….)
+SUB variable(a,b,c..)
+MUL variable (a,b,c…)
+DIV variable(a,b)
+MOD variable(a,b)
+OUT variable
+POW variable (a,b,c..)
+FACT variable a
+EXPR variable (“Expression”)
+SET variable NUMBER/STRING (value)
+IN variable NUMBER/STRING

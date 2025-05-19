@@ -1,0 +1,7 @@
+SET p STRING ("MAHEK")
+IN q STRING
+
+OUT p
+OUT q
+
+

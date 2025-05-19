@@ -1,0 +1,20 @@
+Instructions for programming language:
+
+1. DATA TYPE availability NUMBER(int/long long) and string. Add validation condition to check whether assigned obj is number/string or not.   **************
+2. SET for assigning variable and it’s data type.    ****** (D)
+3. N-parameter Addition (ADD var_name (n parameters)). ******(D)
+4. N-parameter Subtraction  (SUB var_name ( n parameter)) ******(D)
+5. N-parameter Multiplication  (MUL var_name (2 parameters)) ******(D)
+6. 2-parameter Division (Undefined check)  (DIV var_name (2 parameters)) ******(D)
+7. 2-parmeter exponent (POW var_name (2 parameters)) *****(D)
+8. 2-parameter modulus (check divisor by 0) (DIV (2 parameters)) *******(D)
+9. Factorial (FACT var_name n)   *******(D)
+10. Expression Solver using Tree (using concept of DSA- no inbuilt function) EXPR var_name (string of expression) ********(D)
+11. Input - IN.  ********* (D)
+12. Output - OUT.  ******** (D)
+13. Data-type checker (***********) , error handling
+
+
+How to run?
+
+python3 main.py filename

@@ -1,0 +1,10 @@
+SET a NUMBER (2)
+IN b NUMBER
+IN c NUMBER
+
+DIV res(b,a,c)
+MOD answer(b,a,c)
+OUT res
+OUT answer
+
+
